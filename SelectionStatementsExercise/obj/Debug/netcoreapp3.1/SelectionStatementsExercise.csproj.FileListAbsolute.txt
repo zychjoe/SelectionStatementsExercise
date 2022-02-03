@@ -1,0 +1,13 @@
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SelectionStatementsExercise/SelectionStatementsExercise/bin/Debug/netcoreapp3.1/SelectionStatementsExercise.deps.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SelectionStatementsExercise/SelectionStatementsExercise/bin/Debug/netcoreapp3.1/SelectionStatementsExercise.runtimeconfig.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SelectionStatementsExercise/SelectionStatementsExercise/bin/Debug/netcoreapp3.1/SelectionStatementsExercise.runtimeconfig.dev.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SelectionStatementsExercise/SelectionStatementsExercise/bin/Debug/netcoreapp3.1/SelectionStatementsExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SelectionStatementsExercise/SelectionStatementsExercise/bin/Debug/netcoreapp3.1/SelectionStatementsExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.csproj.AssemblyReference.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.AssemblyInfoInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.AssemblyInfo.cs
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/SelectionStatementsExercise/SelectionStatementsExercise/obj/Debug/netcoreapp3.1/SelectionStatementsExercise.genruntimeconfig.cache
